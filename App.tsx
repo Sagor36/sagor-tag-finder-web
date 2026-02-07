@@ -34,10 +34,11 @@ const App: React.FC = () => {
             <div className="grid md:grid-cols-2 gap-16 items-center">
               <div className="relative">
                 <div className="absolute -top-10 -left-10 w-40 h-40 bg-sky-100 rounded-full blur-3xl opacity-60"></div>
-                <img 
-                  src="https://picsum.photos/800/600?random=1" 
-                  alt="YouTube Growth" 
-                  className="rounded-3xl shadow-2xl relative z-10 border-8 border-white"
+               <img 
+  src="https://i.ibb.co.com/5XtDjcSz/image-68a382.png" 
+  alt="YouTube Growth" 
+  className="w-full h-auto rounded-3xl shadow-2xl relative z-10 border-8 border-white" 
+/>
                 />
               </div>
               <div>
