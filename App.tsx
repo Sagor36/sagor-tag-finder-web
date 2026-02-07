@@ -43,7 +43,11 @@ const App: React.FC = () => {
               <div>
                 <h2 className="text-3xl font-bold text-slate-900 mb-6">About Sagor Tag Finder</h2>
                 <p className="text-slate-600 mb-6 leading-relaxed">
-                  The name "Sagor" means Ocean in Bengali, representing the vast possibilities and deep reach your content can have. Just as waves reach every shore, your videos should reach every potential viewer.
+                My name is BDSAGORDM, and I am a dedicated digital marketer specializing in YouTube SEO, Facebook marketing, and organic social media growth. I help content creators, influencers, and brands improve their online presence by optimizing content for better reach, visibility, and engagement.
+
+Many high-quality videos and posts fail to perform well—not because the content is bad, but because they lack proper SEO, keyword research, and audience targeting. I focus on data-driven strategies such as keyword research, title and description optimization, tag setup, CTR improvement, and performance analysis to ensure content reaches the right audience.
+
+I believe in honest work and long-term growth. My goal is to deliver real results—real views, real engagement, and real subscribers—without fake traffic or risky methods. If you are looking for sustainable growth and professional optimization, I am here to help.
                 </p>
                 <p className="text-slate-600 mb-8 leading-relaxed">
                   In the competitive landscape of YouTube, SEO is your most powerful tool. Our finder doesn't just guess keywords; it uses Gemini's advanced semantic understanding to identify search patterns, intent, and long-tail phrases that human researchers might miss.
