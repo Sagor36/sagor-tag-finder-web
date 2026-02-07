@@ -43,7 +43,7 @@ const App: React.FC = () => {
               <div>
                 <h2 className="text-3xl font-bold text-slate-900 mb-6">About Sagor Tag Finder</h2>
                 <p className="text-slate-600 mb-6 leading-relaxed">
-                My name is BDSAGORDM, and I am a dedicated digital marketer specializing in YouTube SEO, Facebook marketing, and organic social media growth. I help content creators, influencers, and brands improve their online presence by optimizing content for better reach, visibility, and engagement.
+                My name is Sagor Ahmed, and I am a dedicated digital marketer specializing in YouTube SEO, Facebook marketing, and organic social media growth. I help content creators, influencers, and brands improve their online presence by optimizing content for better reach, visibility, and engagement.
 
 Many high-quality videos and posts fail to perform well—not because the content is bad, but because they lack proper SEO, keyword research, and audience targeting. I focus on data-driven strategies such as keyword research, title and description optimization, tag setup, CTR improvement, and performance analysis to ensure content reaches the right audience.
 
