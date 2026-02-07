@@ -34,12 +34,11 @@ const App: React.FC = () => {
             <div className="grid md:grid-cols-2 gap-16 items-center">
               <div className="relative">
                 <div className="absolute -top-10 -left-10 w-40 h-40 bg-sky-100 rounded-full blur-3xl opacity-60"></div>
-               <img 
-  src="https://i.ibb.co.com/5XtDjcSz/image-68a382.png" 
+      <img 
+  src="https://i.ibb.co.com/zHG8bhvQ/image.png" 
   alt="YouTube Growth" 
   className="w-full h-auto rounded-3xl shadow-2xl relative z-10 border-8 border-white" 
 />
-                />
               </div>
               <div>
                 <h2 className="text-3xl font-bold text-slate-900 mb-6">About Sagor Tag Finder</h2>
